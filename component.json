@@ -1,0 +1,20 @@
+{
+    "name": "Site Informaton",
+    "id": "siteinfo",
+    "description": "Component that show server configuration and Zest enviroment detail that used for debugging ",
+    "version": "2.0.0",
+    "status": true,
+    "author": {
+        "name": "Malik Umer Farooq",
+        "email": "lablnet01@gmail.com",
+        "homepage": "https:\/\/zestframework.xyz"
+    },
+    "requires": {
+        "version": "3.0.0",
+        "comparator": "<="
+    },
+    "license": {
+        "license": "MIT",
+        "url": "https:\/\/opensource.org\/licenses\/MIT"
+    }
+}
