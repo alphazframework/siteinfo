@@ -4,7 +4,8 @@ namespace App\Components\siteinfo\Controllers;
 
 use Zest\Component\View\View;
 
-define('__SITEINFO__', 'siteinfo/Views/');
+
+define("__siteinfo__", 'siteinfo/Views/');
 
 class Home extends \Zest\Controller\Controller
 {
@@ -16,6 +17,6 @@ class Home extends \Zest\Controller\Controller
      */
     public function index()
     {
-        View::rander(__SITEINFO__.'Home/index');
+        View::rander(__siteinfo__.'Home/index');
     }
 }
