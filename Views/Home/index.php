@@ -32,7 +32,7 @@
 			</tr>	
 			<tr>
 				<th>Error Reporting</th>
-				<?php if (__config()->config->show_errors) {?>	
+				<?php if (__config('app.show_errors')) {?>	
 				<td>On</td>
 				<?php } else { ?>
 				<td>Off</td>
@@ -40,7 +40,7 @@
 			</tr>
 			<tr>
 				<th>Router Cache</th>
-				<?php if (__config()->config->router_cache) {?>	
+				<?php if (__config('app.router_cache')) {?>	
 				<td>On</td>
 				<?php } else { ?>
 				<td>Off</td>
