@@ -3,7 +3,7 @@ Component that shows server configuration and Zest environment details used for 
 
 # usage
 You can install this component easily by using [Component Installer](https://github.com/zestframework/com_installer).
-If you don't want to use installer then perform following steps.
+If you don't want to use the installer, then perform the following steps.
 - Clone this repo in your /App/Components folder.
 - Congratulations! You've done it.
 
