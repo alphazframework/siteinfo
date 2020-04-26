@@ -1,7 +1,7 @@
 {
     "name": "Site Informaton",
     "id": "siteinfo",
-    "description": "Component that show server configuration and Zest enviroment detail that used for debugging ",
+    "description": "Component that shows server configuration and Zest environment details used for debugging.",
     "version": "2.0.0",
     "status": true,
     "author": {
